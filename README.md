@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joseph-javier-s%C3%A1nchez-acu%C3%B1a/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&lines=Optimizaci%C3%B3n+de+decisiones+con+datos+y+algoritmos;Simheur%C3%ADsticas+%7C+Metaheur%C3%ADsticas+%7C+Reinforcement+Learning;Investigador+en+Uniandes+%26+UNIMINUTO;Co-fundador+%40SAVA+%7C+IA+para+industria+y+salud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2EA44F&center=true&vCenter=true&width=560&lines=Ingenier%C3%ADa+Industrial+%C2%B7+IA+%26+Optimizaci%C3%B3n;Investigador+en+Uniandes+%26+UNIMINUTO;Co-fundador+%40SAVA" alt="Typing SVG" />
   </a>
 </p>
 
