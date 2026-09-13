@@ -2,33 +2,44 @@
 <h3 align="center">Ingeniería Industrial · Investigación Aplicada en IA & Optimización</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joseph-javier-s%C3%A1nchez-acu%C3%B1a-150410275/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&lines=Optimizaci%C3%B3n+de+decisiones+con+datos+y+algoritmos;Simheur%C3%ADsticas+%7C+Metaheur%C3%ADsticas+%7C+Reinforcement+Learning;Investigador+en+Uniandes+%26+UNIMINUTO;Construyendo+IA+aplicada+a+problemas+reales" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/joseph-javier-s%C3%A1nchez-acu%C3%B1a/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&lines=Optimizaci%C3%B3n+de+decisiones+con+datos+y+algoritmos;Simheur%C3%ADsticas+%7C+Metaheur%C3%ADsticas+%7C+Reinforcement+Learning;Investigador+en+Uniandes+%26+UNIMINUTO;Co-fundador+%40SAVA+%7C+IA+para+industria+y+salud" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joseph-javier-s%C3%A1nchez-acu%C3%B1a-150410275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joseph-javier-s%C3%A1nchez-acu%C3%B1a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0007-2008-823X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=iEeiFKAAAAAJ&hl=es"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://www.researchgate.net/profile/Joseph-Javier-Sanchez-Acuna"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GIUSEPPESAN21&label=Visitas%20al%20perfil&color=2EA44F&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/GPA-4.53%2F5.0-2EA44F?style=flat-square" />
+  <img src="https://img.shields.io/badge/National_Exchange-Universidad_de_los_Andes-2EA44F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software_IP-Registered_in_Colombia-2EA44F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Co--founder-SAVA-2EA44F?style=flat-square" />
 </p>
+
+---
+
+### 🇬🇧 Short summary
+
+> Eighth-semester Industrial Engineering student (GPA 4.53/5.0), selected on academic merit for the National Exchange with dual-degree option at Universidad de los Andes, Colombia's top-ranked university. Young researcher at Universidad de los Andes and UNIMINUTO, with internationally published scientific research and a registered software intellectual property title in Colombia. Co-founder of SAVA, a software company applying artificial intelligence to industrial engineering and healthcare. I turn complex operational problems into field-validated technological solutions.
 
 ---
 
 ### Sobre mí
 
-Estudiante de octavo semestre de **Ingeniería Industrial**, e **investigador estudiantil** en la **Universidad de los Andes** y **UNIMINUTO** (Buga, Colombia). Trabajo en la intersección entre **investigación de operaciones, inteligencia artificial y sistemas del mundo real**: desde metaheurísticas para logística y minería, hasta reinforcement learning aplicado a programación de producción e IA aplicada a salud.
+Estudiante de octavo semestre de **Ingeniería Industrial** (GPA 4.53/5.0), seleccionado por mérito académico para el **Intercambio Nacional** con opción de doble titulación en la **Universidad de los Andes**. **Investigador estudiantil** en Uniandes y **UNIMINUTO** (Buga, Colombia), con investigación científica publicada internacionalmente y un **título de propiedad intelectual de software registrado en Colombia**. Co-fundador de **SAVA**, empresa de software que aplica inteligencia artificial a la ingeniería industrial y a la salud.
+
+Trabajo en la intersección entre **investigación de operaciones, inteligencia artificial y sistemas del mundo real**: desde metaheurísticas para logística y minería, hasta reinforcement learning aplicado a programación de producción e IA aplicada a salud.
 
 - 🔬 Investigo cómo combinar **optimización clásica** (Tabu Search, ACO, CP-SAT) con **aprendizaje por refuerzo** y **redes neuronales de grafos**.
 - 🏭 Enfocado en problemas de **scheduling, ruteo, forecasting de demanda y simulación estocástica**.
 - 🩺 También construyo herramientas de **IA aplicada a salud** con motores de reglas clínicas explicables.
+- 🚀 Co-fundador de **SAVA**, convirtiendo investigación en productos de software field-validated.
 - 📄 Publico y documento mi trabajo con estándares de **reproducibilidad científica** (Docker, tests automatizados, Zenodo).
-- 🌱 Actualmente profundizando en **Graph Neural Networks + PPO** para *dynamic flexible job-shop scheduling*.
 
 ---
 
@@ -65,28 +76,12 @@ Estudiante de octavo semestre de **Ingeniería Industrial**, e **investigador es
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GIUSEPPESAN21&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GIUSEPPESAN21&theme=github-dark&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIUSEPPESAN21&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GIUSEPPESAN21&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
-</p>
-
----
-
 ### Publicaciones y perfil académico
 
 - 🆔 **ORCID:** [0009-0007-2008-823X](https://orcid.org/0009-0007-2008-823X)
 - 🎓 **Google Scholar:** [Perfil de citas](https://scholar.google.com/citations?user=iEeiFKAAAAAJ&hl=es)
 - 🔬 **ResearchGate:** [Joseph Javier Sánchez Acuña](https://www.researchgate.net/profile/Joseph-Javier-Sanchez-Acuna)
+- 💼 **LinkedIn:** [Joseph Javier Sánchez Acuña](https://www.linkedin.com/in/joseph-javier-s%C3%A1nchez-acu%C3%B1a/)
 
 ---
 
